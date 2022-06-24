@@ -9,5 +9,5 @@
 ## 사용언어
 
 <img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=black">
-<img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=black">
+<img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=yellow">
 
