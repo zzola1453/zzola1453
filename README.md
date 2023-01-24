@@ -5,9 +5,10 @@
 # GitHub 
 <br> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zzola1453&show_icons=true&theme=onedark)](https://github.com/zzola1453)
 
-# Instagram
-<a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=pink"/></a>
-
+# Language
 <img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=black">
 <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=yellow">
+
+# Instagram
+<a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=seongtaek0408&logoColor=pink"/></a>
 
