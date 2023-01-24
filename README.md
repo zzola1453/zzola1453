@@ -23,13 +23,9 @@ https://zzola1453.github.io/index.html
 
 * Gmail
 zzoladuck1453@gmail.com
-
-* 인스타그램
 <div>
 <a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
 
-
-* 일상
 <div>
 <a href="https://blog.naver.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></div>
 
