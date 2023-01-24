@@ -17,8 +17,7 @@
 <br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzola143)](https://solved.ac/profile/zzola143)
 
 
-# Etc
-* 개인사이트: https://zzola1453.github.io/index.html
+# SNS
 
 <div>
 <a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
