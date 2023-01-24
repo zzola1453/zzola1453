@@ -24,7 +24,7 @@
 
 * Gmail
 <div>
-<a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=instagram&logoColor=white"/></a></div>
+<a href="https://www.instagram.com/seongtaek0408" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a></div>
 
 * 인스타그램
 <div>
