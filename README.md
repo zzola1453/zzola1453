@@ -1,6 +1,4 @@
 # Introduction
-* 이름 : 임성택
-* MBTI : ENFP
 * 군인(2023.02.13 ~ 2024.08.12)
 
 # Activity
