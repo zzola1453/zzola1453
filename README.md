@@ -1,5 +1,7 @@
 # Introduction
 * 군인(2023.02.13 ~ 2024.08.12)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzola1453D&show_icons=true&theme=radical)
+
 
 # Activity
 * 2022 부산 조선해양 공공데이터 및 빅데이터 경진대회
