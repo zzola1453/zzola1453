@@ -11,7 +11,7 @@
 * 2023 부산대 SW/AI 창의융합 프로젝트 캠프 멘토
   
 # Language
-<img src="https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=black">
+"https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"
 <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=yellow">
 
 
