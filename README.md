@@ -12,7 +12,7 @@
   
 # Language
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow">
 <img src="https://img.shields.io/badge/Html5-3776AB?style=flat-square&logo=Html5&logoColor=E34F26">
 
 
