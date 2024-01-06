@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=HelloWorld!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
-# Introduction
+#1 Introduction
 * 군인(2023.02.13 ~ 2024.08.12)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzola1453&show_icons=true&theme=radical)
