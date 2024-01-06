@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=HelloWorld!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
-#1 Introduction
+  
+# Introduction
 * 군인(2023.02.13 ~ 2024.08.12)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzola1453&show_icons=true&theme=radical)
-</div>
 
 # Activity
 * 2022 부산 조선해양 공공데이터 및 빅데이터 경진대회
@@ -23,5 +23,5 @@
 # Solved.ac
 <br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzola143)](https://solved.ac/profile/zzola143)
 
-
+</div>
 
