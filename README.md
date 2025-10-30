@@ -3,7 +3,7 @@
 <div align="center"> 
 
 # Status
- 동아대 2학년
+ SeongTaek Lim
 
 # Activity
  2022 부산 조선해양 공공데이터 및 빅데이터 경진대회
