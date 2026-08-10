@@ -2,10 +2,10 @@
  2022 부산 조선해양 공공데이터 및 빅데이터 경진대회 대상(부산시장상)
 
 # Activity
- <div>Data Science Lab 학부연구생</div>
+ <div>Data Science Lab 학부연구생(2022-present)</div>
  <div>2023 부산대 SW/AI 창의융합 프로젝트 캠프 멘토</div>
  <div>2025 부산광역시 디지털트윈 시범구역 조성(도심형) 사업 개발 참여 연구원 </div>
 
 # Education
  <div>동래고등학교 (2019-2021)</div>
- <div>동아대학교 (2022 ~ present)</div>
+ <div>동아대학교 (2022-present)</div>
